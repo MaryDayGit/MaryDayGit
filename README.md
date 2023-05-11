@@ -4,7 +4,7 @@
 
 I love games since childhood and always dreamed of developing my dream game. Therefore, my choice is the Unity engine.
 
-Skills: C# / Flutter / 3D modeling / Unity 
+Skills: C# / 3D modeling / Unity 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning UnityLearn 
